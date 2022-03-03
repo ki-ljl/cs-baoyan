@@ -1,14 +1,19 @@
-﻿@[TOC](目录)
 # 写在前面
-&emsp;&emsp;还是打算记录一下我曲折的保研经历！也希望可以帮助到后面的CS保研人。
-&emsp;&emsp;凡是过往，皆为序章！无论有没有去到自己想去的学校，结果都已经注定，我们只能从新的起点出发，继续在其他地方发光发热！
+还是打算记录一下我曲折的保研经历！也希望可以帮助到后面的CS保研人。
+
+凡是过往，皆为序章！无论有没有去到自己想去的学校，结果都已经注定，我们只能从新的起点出发，继续在其他地方发光发热！
 
 # 个人情况
 <font size=4>**学校：** </font>北京某末流211
+
 <font size=4>**专业：** </font>计算机科学与技术
+
 <font size=4>**排名：** </font>夏令营2/64，预推免2/64
+
 <font size=4>**英语：** </font>六级470（夏令营时434）
+
 <font size=4>**获奖：** </font>国家奖学金X1、蓝桥杯省二、国赛建模省二、MathorCup高校数学建模二等奖、物理竞赛，以及其他一些小的程序设计大赛的奖项，不值一提。
+
 <font size=4>**科研：**</font> 一篇中文EI（一作）、一个国家级大创（负责人，有自己开发的一个已经上线的APP），此外还参与了一些实验室跟国网合作的项目（做过一些算法和系统开发）。
 
 # 一、北邮计算机学院（7.7）
@@ -25,10 +30,13 @@
 &emsp;&emsp;请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点。传入函数的唯一参数为要被删除的节点。
 
 &emsp;&emsp;现有一个链表 -- head = [4,5,1,9]，它可以表示为:
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/cfbbd5f664aa4d36a89bfc951255a969.png#pic_center)
+
 &emsp;&emsp;示例 1：
 
 &emsp;&emsp;输入：head = [4,5,1,9], node = 5
+
 &emsp;&emsp;输出：[4,1,9]
 
 &emsp;&emsp;解释：给定你链表中值为 5 的第二个节点，那么在调用了你的函数之后，该链表应变为 4 -> 1 -> 9.
@@ -40,10 +48,12 @@
 
 &emsp;&emsp;叶子节点 是指没有子节点的节点。
 
-
 &emsp;&emsp;示例 1：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/8d79d40d6ac74a0db99ffdcd2d0dadc6.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAQ3lyaWxfS0k=,size_12,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/8d79d40d6ac74a0db99ffdcd2d0dadc6.png#pic_center)
+
 &emsp;&emsp;输入：root = [5,4,8,11,null,13,4,7,2,null,null,5,1], targetSum = 22
+
 &emsp;&emsp;输出：[[5,4,11,2],[5,8,4,5]]
 
 &emsp;&emsp;具体请见：[剑指 Offer 34. 二叉树中和为某一值的路径
@@ -59,8 +69,11 @@
 &emsp;&emsp;示例 1：
 
 &emsp;&emsp;输入：n = 12
+
 &emsp;&emsp;输出：3 
+
 &emsp;&emsp;解释：12 = 4 + 4 + 4
+
 &emsp;&emsp;提示：1 <= n <= 104
 
 &emsp;&emsp;具体请见：[完全平方数
@@ -74,9 +87,13 @@
 &emsp;&emsp;求所能获得硬币的最大数量。
 
 &emsp;&emsp;示例 1：
+
 &emsp;&emsp;输入：nums = [3,1,5,8]
+
 &emsp;&emsp;输出：167
+
 &emsp;&emsp;解释：
+
 nums = [3,1,5,8] --> [3,5,8] --> [3,8] --> [8] --> []
 coins =  3*1*5    +   3*5*8   +  1*3*8  + 1*8*1 = 167
 
