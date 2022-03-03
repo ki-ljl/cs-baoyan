@@ -1,15 +1,20 @@
-﻿@[TOC](目录)
 # 写在前面
-&emsp;&emsp;这算是我夏令营的第二个阶段了，一心想要去南方发展的我一次次被南方985高校拒绝，心态已经麻木了...
+这算是我夏令营的第二个阶段了，一心想要去南方发展的我一次次被南方985高校拒绝，心态已经麻木了...
 # 一、山东大学计算机学院（7.10-7.12）
 &emsp;&emsp;7.7上午10点多，我收到了山东大学计算机学院的入营通知。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/0e4880c440a84fd59901db2a02773de6.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAQ3lyaWxfS0k=,size_20,color_FFFFFF,t_70,g_se,x_16)&emsp;&emsp;入营同学必须在7.7下午五点前确定是否参加。当时由于各种原因，我打算放弃参加。于是我发了邮件说自己放弃参加，但是由于时间已经过了17:00，邮件被退回了！！
-![在这里插入图片描述](https://img-blog.csdnimg.cn/c32d9f9c62e743cd91bb3a3302195fcb.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAQ3lyaWxfS0k=,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/0e4880c440a84fd59901db2a02773de6.png#pic_center)
+
+&emsp;&emsp;入营同学必须在7.7下午五点前确定是否参加。当时由于各种原因，我打算放弃参加。于是我发了邮件说自己放弃参加，但是由于时间已经过了17:00，邮件被退回了！！
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/c32d9f9c62e743cd91bb3a3302195fcb.png#pic_center)
+
 &emsp;&emsp;或许是没有收到邮件，山大计算机学院招生办老师晚上十点多给我打了电话，问我还要参加吗？当时犹豫了下还是决定参加了。
 
 ## 1.资格审查（7.8-7.9）
 &emsp;&emsp;8号有个资格审查，一是身份查验，二是检查报名时填的各项荣誉是否有造假行为。审查内容如下：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/45c0f8bdcba04f608b6070f802581fc5.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAQ3lyaWxfS0k=,size_14,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/45c0f8bdcba04f608b6070f802581fc5.png#pic_center)
 
 ## 2.开营仪式（7.10上午）
 &emsp;&emsp;10号上午举行了线上开营仪式，介绍了各个实验室的研究方向以及科研成果什么的。
@@ -81,7 +86,3 @@
 &emsp;&emsp;25号发布通知，不出意外进了优营名单！
 
 &emsp;&emsp;于是我的夏令营就算是告一段落了！接下来我会更新一下预推免的情况。
-
-&emsp;&emsp;<font size = 5 face="华文琥珀">欢迎大家关注我的微信公众号：KI的算法杂记，有什么问题可以直接发私信。
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/7f70eb88bb3949ccb33b84feb8a53f10.jpg#pic_center)
